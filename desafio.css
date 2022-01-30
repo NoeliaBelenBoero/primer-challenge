@@ -1,0 +1,54 @@
+body{
+    
+   
+	background-color: gold;
+
+}
+
+h1 {
+    font-size: 50px;
+	text-align: center;
+    color: darkblue;
+    font-family: all;
+    text-shadow: 9px 15px 37px;
+
+}
+
+label {
+    
+	color: lightgreen;
+    text-shadow: 9px 15px 37px;
+}
+
+button {
+    background: brown;
+	color: yellow;
+    border-radius: 5px;
+}
+
+form {
+
+	width: 400px;
+	background-color: #050d14;
+	padding: 30px;
+	margin:auto;
+	margin-top: 25px;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	font-size: 25px;
+	box-shadow: 9px 15px 37px;
+}
+
+input {
+
+   padding: 20px;
+   border-radius: 10px;
+
+}
+
+footer {
+
+	text-align: center;
+	font-family: arial;
+	text-shadow: 9px 15px 37px;
+}
